@@ -15,5 +15,5 @@ jobs:
         with:
           IMG_ALT: Woops. Guess the image failed...
           ALIGN: left;
-          WIDTH: 400;
-          HEIGHT: 400;
+          WIDTH: 210;
+          HEIGHT: 210;
