@@ -14,3 +14,4 @@ jobs:
       - uses: siddharth2016/update-readme-image@main
         with:
           IMG_ALT: Woops. Guess the image failed...
+          ALIGN: left;
